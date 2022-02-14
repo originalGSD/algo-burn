@@ -4,7 +4,7 @@ This is a simple script to illustrate how a "burn address" can be generated for 
 
 The script uses a similar approach to what the Algorand Foundation used to burn Early Redemption Auction Tokens. All details can be found here: https://algorand.foundation/news/the-algorand-foundation-today-confirm-token-burn
 
-Since we are not burning Algorand (that would require to only send ALGO to a random address) we are using a process called 're-keying' so that, once the burn address is configured accordingly, its "authorized account" is set to a random public address.
+Since we are not burning ALGOs (that would require to only send ALGOs to a random address) we are using a process called 're-keying' so that, once the burn address is configured accordingly, its "authorized account" is set to a random public address.
 
 Process is as follow:
 - Fund a "burn" address with the amount of Algo required to opt-into one or more ASAs
