@@ -22,4 +22,4 @@ Here are the links to the SCOUT opt-in and re-keying transactions:
 https://algoexplorer.io/tx/FDSOCKQPB7CM67XJJOT62Y7C3QZXA2BGYIT7JM5FKM7WXAHAGEVA
 https://algoexplorer.io/tx/DTLKTFMO4WKYB7LDIDYORA6TFJPD7LZWMDMEYHEIFMOI6PAR3C4A
 
-NOTE: burnt tokens will still be included in the total circulating supply calculation.
+NOTE: burnt tokens will still be included in the total circulating supply calculation, unless you set the burn address as the "reserve" address.
